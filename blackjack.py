@@ -123,6 +123,9 @@ def shuffle():
 
 mainWindow = tkinter.Tk()
 
+def Amin():
+    print("Amin says merhaba!")
+
 # Set up the screen and frames for the dealer and player
 mainWindow.title("Black Jack")
 mainWindow.geometry("640x480")
